@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="21.59cm" height="27.94cm" xmlns="http://www.w3.org/2000/svg">
+<rect width="21.59cm" height="27.94cm" style="fill: none;"/>
+<line x1="10.04cm" y1="5.14cm" x2="10.04cm" y2="25.40cm" style="stroke:#000000; stroke-dasharray: 2,4; stroke-width:0.50pt;"/>
+<line x1="11.74cm" y1="5.14cm" x2="11.74cm" y2="25.40cm" style="stroke:#000000; stroke-dasharray: 2,4; stroke-width:0.50pt;"/>
+<line x1="13.44cm" y1="5.14cm" x2="13.44cm" y2="25.40cm" style="stroke:#000000; stroke-dasharray: 2,4; stroke-width:0.50pt;"/>
+<line x1="15.15cm" y1="5.14cm" x2="15.15cm" y2="25.40cm" style="stroke:#000000; stroke-dasharray: 2,4; stroke-width:0.50pt;"/>
+<line x1="16.85cm" y1="5.14cm" x2="16.85cm" y2="25.40cm" style="stroke:#000000; stroke-dasharray: 2,4; stroke-width:0.50pt;"/>
+<line x1="18.55cm" y1="5.14cm" x2="18.55cm" y2="25.40cm" style="stroke:#000000; stroke-dasharray: 2,4; stroke-width:0.50pt;"/>
+<polygon fill="#ffffff" style="stroke:#000000;  stroke-width:0.50pt;" points="373.81,772.75 375.58,779.00 373.81,785.25 372.04,779.00"/>
+<polygon fill="#000000" style="stroke:#000000;  stroke-width:0.50pt;" points="408.79,772.75 410.56,779.00 408.79,785.25 407.02,779.00"/>
+<line x1="10.60cm" y1="21.99cm" x2="11.49cm" y2="21.99cm" style="stroke:#000000; stroke-width:0.50pt;"/>
+<polygon fill="#ffffff" style="stroke:#000000;  stroke-width:0.50pt;" points="376.83,794.62 378.60,800.87 376.83,807.12 375.05,800.87"/>
+<polygon fill="#ffffff" style="stroke:#000000;  stroke-width:0.50pt;" points="378.03,816.50 379.80,822.75 378.03,829.00 376.26,822.75"/>
+<polygon fill="#000000" style="stroke:#000000;  stroke-width:0.50pt;" points="405.78,816.50 407.55,822.75 405.78,829.00 404.00,822.75"/>
+<line x1="10.72cm" y1="23.22cm" x2="11.40cm" y2="23.22cm" style="stroke:#000000; stroke-width:0.50pt;"/>
+<polygon fill="#ffffff" style="stroke:#000000;  stroke-width:0.50pt;" points="382.86,838.37 384.63,844.62 382.86,850.87 381.08,844.62"/>
+<polygon fill="#ffffff" style="stroke:#000000;  stroke-width:0.50pt;" points="382.86,860.25 384.63,866.50 382.86,872.75 381.08,866.50"/>
+<polygon fill="#ffffff" style="stroke:#000000;  stroke-width:0.50pt;" points="391.30,882.12 393.07,888.37 391.30,894.62 389.53,888.37"/>
+<polygon fill="#000000" style="stroke:#000000;  stroke-width:0.50pt;" points="419.04,882.12 420.82,888.37 419.04,894.62 417.27,888.37"/>
+<line x1="11.09cm" y1="25.07cm" x2="11.78cm" y2="25.07cm" style="stroke:#000000; stroke-width:0.50pt;"/>
+<text x="7.01cm" y="3.13cm" style="fill:#000000;font-size:14pt; font-family:sans-serif;">Graphique temporel -- Trié par Naissance</text>
+<text x="8.22cm" y="3.74cm" style="fill:#000000;font-size:14pt; font-family:sans-serif;">(Toute la base de données)</text>
+<text x="6.17cm" y="4.34cm" style="fill:#000000;font-size:14pt; font-family:sans-serif;">(Individus vivants : Inclus, avec toutes les données)</text>
+<text x="9.68cm" y="5.14cm" style="fill:#000000;font-size:8pt; font-family:sans-serif;">1520</text>
+<text x="11.38cm" y="5.14cm" style="fill:#000000;font-size:8pt; font-family:sans-serif;">1620</text>
+<text x="13.09cm" y="5.14cm" style="fill:#000000;font-size:8pt; font-family:sans-serif;">1720</text>
+<text x="14.79cm" y="5.14cm" style="fill:#000000;font-size:8pt; font-family:sans-serif;">1820</text>
+<text x="16.49cm" y="5.14cm" style="fill:#000000;font-size:8pt; font-family:sans-serif;">1920</text>
+<text x="18.19cm" y="5.14cm" style="fill:#000000;font-size:8pt; font-family:sans-serif;">2020</text>
+<text x="3.16cm" y="6.18cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">VERNEZ, Virginie</text>
+<text x="3.16cm" y="6.80cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">VIARD, Dominique</text>
+<text x="3.16cm" y="7.42cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">VILLEMIN, Corinne</text>
+<text x="3.16cm" y="8.03cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">VILLEMIN, Hélène</text>
+<text x="3.16cm" y="8.65cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">VILLEMIN, Jean-Marie</text>
+<text x="3.16cm" y="9.27cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">VILLEMIN, Pascal</text>
+<text x="3.16cm" y="9.88cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">VILLEMIN, Thierry</text>
+<text x="3.16cm" y="10.50cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">VILLIERES, François</text>
+<text x="3.16cm" y="11.12cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">VILLIERES, Josette</text>
+<text x="3.16cm" y="11.74cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">VILLIERES, Michel</text>
+<text x="3.16cm" y="12.35cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">VIOT, Joel</text>
+<text x="3.16cm" y="12.97cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">VIOT, Karen</text>
+<text x="3.16cm" y="13.59cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">VIOT, Peggy</text>
+<text x="3.16cm" y="14.21cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">VIOT, Sébastien</text>
+<text x="3.16cm" y="14.82cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">VOIRIN, Céline</text>
+<text x="3.16cm" y="15.44cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">VOIRIN, Jeanne</text>
+<text x="3.16cm" y="16.06cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">VOIRIN, Marie</text>
+<text x="3.16cm" y="16.68cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">WAGNER, Alain</text>
+<text x="3.16cm" y="17.29cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">WAGNER, Clément</text>
+<text x="3.16cm" y="17.91cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">WAGNER, Eric</text>
+<text x="3.16cm" y="18.53cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">WAGNER, Germaine</text>
+<text x="3.16cm" y="19.15cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">WAGNER, Jean</text>
+<text x="3.16cm" y="19.76cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">WAGNER, Mathilde</text>
+<text x="3.16cm" y="20.38cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">WAGNER, Monique</text>
+<text x="3.16cm" y="21.00cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">WAGNER, Patrick</text>
+<text x="3.16cm" y="21.61cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">WAGNER, Robert</text>
+<text x="3.16cm" y="22.23cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">THIRIET, Claude</text>
+<text x="3.16cm" y="22.85cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">EURIAT, Claude dit Le Viel</text>
+<text x="3.16cm" y="23.47cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">BISET, Nicolas</text>
+<text x="3.16cm" y="24.08cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">, Georgia</text>
+<text x="3.16cm" y="24.70cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">RUAUX, Adrien</text>
+<text x="3.16cm" y="25.32cm" style="fill:#000000;font-size:10pt; font-family:sans-serif;">THIRIET, (Ni)colas</text>
+</svg>
